@@ -16,3 +16,51 @@
 1,55,Aragon,Zaragoza
 1,37,Aragon,Daroca
 1,74,Cantabria,Santander
+2,45,Arizona,Pheonix
+1,68,Colorado,Denver
+3,78,Florida,Tallahassee
+2,55,Georgia,Atlanta
+
+3,88,Hawaii,Honolulu
+1,56,Illinois,Springfield
+3,48,Indiana,Indianapolis
+1,90,Massachusetts,Boston
+45
+1,87,Montana,Helena
+2,77,New Mexico,Santa Fe
+3,89,Oklahoma,Oklahoma City
+1,76,Tenessee,Nashville
+a
+2,83,Texas,Austin
+3,44,Wisconsin,Madison
+2,53,Washington,Olympia
+1,50,Virginia,Richmond
+error
+2,45,Arizona,Pheonix
+1,68,Colorado,Denver
+3,78,Florida,Tallahassee
+2,55,Georgia,Atlanta
+
+3,88,Hawaii,Honolulu
+1,56,Illinois,Springfield
+3,48,Indiana,Indianapolis
+1,90,Massachusetts,Boston
+45
+1,87,Montana,Helena
+2,77,New Mexico,Santa Fe
+3,89,Oklahoma,Oklahoma City
+1,76,Tenessee,Nashville
+a
+2,83,Texas,Austin
+3,44,Wisconsin,Madison
+2,53,Washington,Olympia
+1,50,Virginia,Richmond
+error
+3,66,Madrid,Madrid
+,43,Madrid,Parla
+2,34,Navarra,Pamplona
+0,23,Andalucia,Vera
+1,55,Aragon,Zaragoza
+1,37,Aragon,Daroca
+1,74,Cantabria,Santander
+2,45,Arizona,Pheonix

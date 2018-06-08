@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<result xmlns:fn="http://www.w3.org/2005/xpath-functions">
+   <conversation>
+      <user>
+         <server_name>romeo.montesco@s.whatsapp.net</server_name>
+         <name>Romeo Montesco</name>
+         <city>Verona</city>
+      </user>
+      <iq>
+         <query xmlns="w:g"/>
+      </iq>
+      <presence/>
+      <message>
+         <body>Test</body>
+      </message>
+      <message>
+         <notify xmlns="urn:xmpp:whatsapp"/>
+         <request xmlns="urn:xmpp:receipts"/>
+         <body/>
+      </message>
+      <presence xmlns="w"/>
+   </conversation>
+</result>

@@ -1,0 +1,31 @@
+<results>
+    <conversation id="936287">
+
+        <user>
+            <server_name>romeo.montesco@s.whatsapp.net</server_name>
+            <name>Romeo Montesco</name>
+            <city>Verona</city>
+        </user>
+
+        <user_history>
+            <iq id="1345684458-1" to="34154374263-1345473395@g.us" type="get">
+            <query xmlns="w:g" />
+            </iq>
+
+            <presence type="unavailable" name="romeo" t="1345477624"/>
+
+            <message to="julieta.capuleto@s.whatsapp.net" type="text" id="message-1417651059-2" t="1417651059">
+                <body>Test</body>
+            </message>
+
+            <message from="romeo.montesco@s.whatsapp.net" id="1345473395-5" type="chat" t="1345477624" author="romeo.montesco@s.whatsapp.net">
+                <notify xmlns="urn:xmpp:whatsapp" name="romeoyjulieta" />
+                <request xmlns="urn:xmpp:receipts" />
+                <body></body>
+            </message>
+            <presence from="34154374263-1345473395@g.us" type="available" xmlns="w" add="romeo.montesco@s.whatsapp.net" />
+            
+        </user_history>
+        
+    </conversation>
+</results>
